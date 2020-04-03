@@ -1,2 +1,2 @@
 # FolioMinimal
-# Minimalistic tech portfolio themse built using NodeJs
+Minimalistic tech portfolio theme built using NodeJs
