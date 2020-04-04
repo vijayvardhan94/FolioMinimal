@@ -53,7 +53,7 @@ app.get('/projects', (req, res) => {
 
 app.get('/contact', (req, res) => {
     res.render('contact', {
-        contactText: 'I can reached at :',
+        contactText: 'I can be reached at :',
         title: 'Contact',
         name: 'Vijay Tadimeti'
     })
